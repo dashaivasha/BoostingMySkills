@@ -1,0 +1,7 @@
+{
+  "Url": "https://demoqa.com/frames",
+  "HomePageUrl": "http://automationpractice.com",
+  "WaitTime": 50,
+  "Browser": "Chrome",
+  "Api_key": "special-key"
+}
